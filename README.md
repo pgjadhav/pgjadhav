@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/pgjadhav/pgjadhav/main/banner.png" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Scientist;AI%2FML+Engineer;Generative+AI+Developer;Building+AI+Voice+Agents;Machine+Learning+%7C+Deep+Learning" />
 </p>
 
