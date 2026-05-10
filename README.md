@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Scientist;AI%2FML+Engineer;Generative+AI+Developer;Building+AI+Voice+Agents;Machine+Learning+%7C+Deep+Learning" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Prashant Jadhav</h1>
 
 <h3 align="center">
@@ -23,7 +27,7 @@ Data Scientist | AI/ML Engineer | Generative AI Developer
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/pgjadhav">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -67,9 +71,9 @@ Data Scientist | AI/ML Engineer | Generative AI Developer
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pgjadhav&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgjadhav&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -77,7 +81,7 @@ Data Scientist | AI/ML Engineer | Generative AI Developer
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pgjadhav&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -85,7 +89,7 @@ Data Scientist | AI/ML Engineer | Generative AI Developer
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pgjadhav&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -113,7 +117,7 @@ Data Scientist | AI/ML Engineer | Generative AI Developer
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pgjadhav&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -121,7 +125,7 @@ Data Scientist | AI/ML Engineer | Generative AI Developer
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/pgjadhav/pgjadhav/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -137,7 +141,7 @@ Data Scientist | AI/ML Engineer | Generative AI Developer
 # 👀 Profile Views
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=pgjadhav&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
