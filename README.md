@@ -73,17 +73,12 @@ me = PrashantJadhav()
 - 🔮 Built **predictive forecasting models** using `Prophet`, `ARIMA`, `SARIMA`, `Exponential MA`, and `LSTM` neural networks
 - 🤝 Collaborated with cross-functional teams on data-driven product solutions
 - 🔄 Maintained and periodically updated models with fresh data for accuracy
-
-</details>
-
-<br/>
-
 - 📂 Analyzed large datasets to extract patterns and trends for strategic decisions
 - 📊 Delivered insights through effective data visualization
 - 🤖 Developed classification and regression models using `Logistic Regression`, `Decision Trees`, and `Neural Networks`
 - 🔍 Conducted ongoing research to stay ahead in evolving data science practices
 - 🤝 Partnered with teams to execute data-driven strategies
-
+<br/>
 </details>
 
 ---
