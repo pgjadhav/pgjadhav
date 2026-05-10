@@ -4,9 +4,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00d2ff&height=200&section=header&text=Prashant%20Jadhav&fontSize=60&fontColor=00d2ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20Generative%20AI%20Developer&descAlignY=58&descSize=18&descColor=a0c4ff&animation=fadeIn"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00D2FF&center=true&vCenter=true&width=800&lines=🤖+Building+Intelligent+AI+Systems;📊+Time+Series+%26+Predictive+Modeling;🧠+LLM+Fine-tuning+%26+RAG+Pipelines;🔬+NLP+%7C+Deep+Learning+%7C+Computer+Vision;⚡+Turning+Data+into+Decisions" alt="Typing SVG" />
-</a>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00D2FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Systems;Time+Series+and+Predictive+Modeling;LLM+Fine-tuning+and+RAG+Pipelines;NLP+%7C+Deep+Learning+%7C+Computer+Vision;Turning+Data+into+Decisions"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <br/>
 
