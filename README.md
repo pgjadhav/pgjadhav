@@ -59,7 +59,7 @@ me = PrashantJadhav()
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Experties
 
 <details open>
 
