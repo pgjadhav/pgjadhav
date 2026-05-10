@@ -76,7 +76,6 @@ me = PrashantJadhav()
 
 </details>
 
-
 <br/>
 
 - 📂 Analyzed large datasets to extract patterns and trends for strategic decisions
@@ -137,16 +136,6 @@ me = PrashantJadhav()
 | **Sulphur** | Manufacturing Growth Aid | SARIMA, Prophet, EMA |
 
 `Python` `Pandas` `Time Series` `Data Visualization` `Forecasting`
-
----
-
-### ⚙️ Machine Failure Type Prediction
-> **ML Classification | Predictive Maintenance**
-
-- Predicted **types of machine failures** from multi-feature sensor datasets
-- Applied ensemble classifiers for high-accuracy multi-class classification
-
-`Python` `Scikit-learn` `Classification` `Data Preprocessing` `Data Visualization`
 
 ---
 
@@ -232,16 +221,6 @@ me = PrashantJadhav()
 <div align="center">
   <img src="https://raw.githubusercontent.com/pgjadhav/pgjadhav/output/github-contribution-grid-snake-dark.svg"/>
 </div>
-
----
-
-## 🎓 Education
-
-| Degree | Institute | Year | Score |
-|--------|-----------|------|-------|
-| 🎓 **B.E. — Engineering** | Pune University | 2018 – 2021 | 7.21 CGPA — *First Class* |
-| 📘 **Diploma — Engineering** | MSBTE | 2015 – 2018 | 77.29% — *First Class with Distinction* |
-| 📗 **SSC** | MSBSHSE | 2014 – 2015 | 79.40% — *First Class with Distinction* |
 
 ---
 
