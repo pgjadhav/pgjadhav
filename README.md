@@ -62,7 +62,6 @@ me = PrashantJadhav()
 ## 💼 Professional Experience
 
 <details open>
-<summary><b>🏢 Data Scientist — Let's Enkindle, Ahmedabad &nbsp;|&nbsp; Jun 2024 – Present</b></summary>
 
 <br/>
 
@@ -74,8 +73,6 @@ me = PrashantJadhav()
 
 </details>
 
-<details>
-<summary><b>🏢 Data Scientist — Lets Nurture, Ahmedabad &nbsp;|&nbsp; Oct 2021 – Jun 2024</b></summary>
 
 <br/>
 
