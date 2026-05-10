@@ -158,3 +158,10 @@ while(True):
     build()
     innovate()
     repeat()
+
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/pgjadhav/pgjadhav/output/github-contribution-grid-snake.svg"/>
+</p>
