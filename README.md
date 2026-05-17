@@ -43,7 +43,7 @@ class PrashantJadhav:
         self.name        = "Prashant Ganesh Jadhav"
         self.role        = "Data Scientist | AI/ML Engineer | Generative AI Developer"
         self.location    = "Mumbai → Ahmedabad, India"
-        self.experience  = "4+ Years in Data Science & AI"
+        self.experience  = "3 Years in Data Science & AI"
         self.email       = "pgjadhav0001@gmail.com"
 
     def current_focus(self):
